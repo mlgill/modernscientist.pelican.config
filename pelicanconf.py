@@ -12,7 +12,7 @@ SITETITLE = 'themodernscientist'
 
 SITEURL = '/Users/mlgill/Documents/blog/themodernscientist/output'
 
-SITESUBTITLE = 'biophysicist, mac-unix zealot, pythonista'
+SITESUBTITLE = u'biophysicist → data scientist, mac-unix zealot, pythonista'
 
 PATH = 'content'
 USE_FOLDER_AS_CATEGORY = False
@@ -94,7 +94,8 @@ NOTEBOOK_DIR = 'notebooks'
 DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
-MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),)
+MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
+             ('CV', 'https://mlgill.github.io'))
 
 
 DISPLAY_PAGES_ON_MENU = True
