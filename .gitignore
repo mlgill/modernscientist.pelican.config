@@ -4,3 +4,5 @@ output
 themes
 .pdb-pyhist
 *.pyc
+.ipynb_checkpoints/
+main_rss.xml.backup
