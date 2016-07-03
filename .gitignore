@@ -3,3 +3,4 @@ __pycache__
 output
 themes
 .pdb-pyhist
+*.pyc
