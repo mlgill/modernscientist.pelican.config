@@ -5,7 +5,7 @@ import sys
 
 PYTHON_VERSION = sys.version_info[0]
 
-AUTHOR = u'Michelle Gill'
+AUTHOR = u'Michelle Lynn Gill'
 SITENAME = u'themodernscientist'
 
 SITETITLE = 'themodernscientist'
@@ -95,7 +95,7 @@ DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
 MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
-             ('CV', 'https://mlgill.github.io'))
+             ('CV', 'http://michellelynngill.com'))
 
 
 DISPLAY_PAGES_ON_MENU = True
