@@ -95,7 +95,7 @@ DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
 MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
-             ('CV', 'http://michellelynngill.com'))
+             ('CV', 'http://cv.michellelynngill.com'))
 
 
 DISPLAY_PAGES_ON_MENU = True
