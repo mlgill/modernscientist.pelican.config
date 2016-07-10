@@ -19,7 +19,7 @@ The aggregation of minimization output parameters that is performed by `pdNLS` h
 
 <!-- PELICAN_END_SUMMARY -->
 
-{% notebook pdNLS_demo.ipynb cells[3:14] %}
+{% notebook pdNLS_demo.ipynb cells[3:13] %}
 
 ## Visualization
 
@@ -27,7 +27,7 @@ The results can be visualized in facet plots with Seaborn. To make it easier to 
 
 *TODO: best-fit line will be added when `predict` method is fixed.*
 
-{% notebook pdNLS_demo.ipynb cells[19:22] %}
+{% notebook pdNLS_demo.ipynb cells[18:21] %}
 
 ## Conclusion
 
