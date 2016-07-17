@@ -3,11 +3,10 @@ Date: 2016-07-17 20:14
 Author: Michelle Gill
 Slug: pdLSR_pandas_aware_least_squares_regression
 Tags: science, python
-Status: draft
 
 I have a new Python project I would like to share with the community. Actually, this project isn't so new. I developed an initial version about two years before completing my postdoctoral research, and it has undergone various revisions over the past three years. Having finally made time to give it the clean-up it needed,[^nudge] I am excited to share it on [GitHub](https://github.com/mlgill/pdLSR).
 
-[^nudge]: And with a helpful nudge in the form of the excellent [data science bootcamp](http://www.thisismetis.com) I'm currently attending.
+[^nudge]: And with a helpful nudge in the form of the excellent [data science bootcamp](http://www.thisismetis.com) I'm currently attending. Stay tuned for more about that!
 
 ## Overview
 
