@@ -19,8 +19,6 @@ Incredibly busy, but great! It is invigorating to be surrounded by so many talen
 
 I am concurrently serving as a teaching assistant for the first eight weeks of the bootcamp. So I've been able to share my love of groupbys, merges, and facet plots with my fellow classmates.
 
-[^pandas]: Hooray for Pandas!
-
 ## What's next?
 
 Hopefully a swift return to world of the gainfully employed after the bootcamp finishes in September, but beyond that, I can't say for sure. In the meantime, rest assured that I'll be writing lots of Python code. 
