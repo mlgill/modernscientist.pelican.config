@@ -1,7 +1,7 @@
 Title: About
 Slug: about
 
-I am a biophysicist and data scientist. Currently, I am attending the Summer 2016 Metis Data Science Bootcamp in New York City. 
+I am a biophysicist and data scientist. Currently, I am a Data Science Fellow at Metis in New York City. 
 
 My Ph.D. is in Molecular Biophysics & Biochemistry. I used nuclear magnetic resonance (NMR) spectroscopy to study the motions of biomacromolecules called enzymes, which play important roles in normal organismal function and in the malfunction that occurs during disease states. NMR enables these motions to be studied with atomic resolution on timescales spanning fourteen orders of magnitude. I also developed NMR experiments for the quantitation of these motions.
 
