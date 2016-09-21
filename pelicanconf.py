@@ -76,7 +76,7 @@ if PYTHON_VERSION < 3:
 	EXTRA_HEADER = EXTRA_HEADER.decode('utf-8')
 
 # Extra files
-STATIC_PATHS = ['images', 'notebooks', 'notes',  
+STATIC_PATHS = ['images', 'notebooks', 'notes', 'media' 
                 'extra/favicon.png', 'extra/CNAME', 'extra/keybase.txt', 'extra/README.md', 'extra/Dockerfile']
 
 EXTRA_PATH_METADATA = {'extra/favicon.png':{'path':'favicon.png'},
