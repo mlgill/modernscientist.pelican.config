@@ -80,7 +80,6 @@ STATIC_PATHS = ['images', 'notebooks', 'notes', 'media',
                 'extra/favicon.png', 'extra/CNAME', 
                 'extra/keybase.txt', 'extra/README.md', 'extra/Dockerfile']
 
-#'extra/media':{'path':'media'},
 EXTRA_PATH_METADATA = {'extra/favicon.png':{'path':'favicon.png'},
      	                 'extra/CNAME':{'path':'CNAME'},
                        'extra/keybase.txt':{'path':'keybase.txt'},
