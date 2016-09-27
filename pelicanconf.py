@@ -96,6 +96,7 @@ DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
 MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
+             ('Resume', 'http://link.mlgill.co/Resume_MichelleGill.pdf'),
              ('CV', 'http://cv.michellelynngill.com'))
 
 
