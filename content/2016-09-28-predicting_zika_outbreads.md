@@ -7,7 +7,9 @@ Status: Draft
 
 I did it! My final project for Metis's Data Science Bootcamp was presented just over a week ago. Before the dust completely settles on this wonderful experience, I'd like to share a few of my projects with you in the coming days.
 
-The first of these projects involved predicting [Zika outbreaks](https://github.com/mlgill/zika_prediction). This project was for the supervised machine learning portion of the bootcamp. We also learned PostgreSQL and D3 for this project, which were used for data storage and visualization, respectively.
+The first of these projects involved predicting Zika outbreaks ([GitHub repo](https://github.com/mlgill/zika_prediction)). This project was for the supervised machine learning portion of the bootcamp. We also learned PostgreSQL and D3 for this project, which were used for data storage and visualization, respectively.
+
+![Figure 1. The *Aedes aegypti* mosquito.](https://mlgill.github.io/zika_prediction/figures/aedes-aegypti.jpg)
 
 ## Data and Feature Engineering
 
@@ -33,7 +35,7 @@ To further address the problem of class imbalance, the minority class was over-s
 
 [^4]: Note that, in the case of class imbalances such as this, the performance on the minority class is actually rather poor even though the metrics are excellent, as can be seen from the confusion matrix. In this case, however, the majority class just happens to be the one of greatest interest, so this isn't such a problem. 
 
-![Figure 1. Confusion matrix from AdaBoost for normal and over-sampled data. Metrics are also shown for both models](https://mlgill.github.io/zika_prediction/figures/model_stats.png)
+![Figure 2. Confusion matrix from AdaBoost for normal and over-sampled data. Metrics are also shown for both models](https://mlgill.github.io/zika_prediction/figures/model_stats.png)
 
 Comparing the normal and over-sampled model nicely illustrates the trade-off between precision and recall. In the case of disease prediction, recall is likely most important and the focus would probably be on the model that is not over-sampled. However, if false positives were problematic, say due to excess preparedness costs, then focus could be shifted to the over-sampled model. 
 
@@ -43,7 +45,7 @@ Comparing the normal and over-sampled model nicely illustrates the trade-off bet
 
 - visualization
 
-<!-- <script src="http://vjs.zencdn.net/4.0/video.js"></script> -->
+<script src="http://vjs.zencdn.net/4.0/video.js"></script>
 
 <video id="visualizing-zika-outbreaks" class="video-js vjs-default-skin" controls
 preload="none" width="870px" height="2000px" poster="https://mlgill.github.io/zika_prediction/figures/d3_visualization.png"
