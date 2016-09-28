@@ -43,7 +43,7 @@ Comparing the normal and over-sampled model nicely illustrates the trade-off bet
 
 - visualization
 
-<!-- <!-- <!-- <script src="http://vjs.zencdn.net/4.0/video.js"></script>
+<script src="http://vjs.zencdn.net/4.0/video.js"></script>
 
 <video id="visualizing-zika-outbreaks" class="video-js vjs-default-skin" controls
 preload="none" width="870px" height="2000px" poster=""
