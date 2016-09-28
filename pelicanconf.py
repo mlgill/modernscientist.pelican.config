@@ -12,7 +12,7 @@ SITETITLE = 'themodernscientist'
 
 SITEURL = '/Users/mlgill/Documents/blog/themodernscientist/output'
 
-SITESUBTITLE = u'biophysicist, data scientist, mac-unix zealot, pythonista'
+SITESUBTITLE = u'data scientist, biophysicist, mac-unix zealot, pythonista'
 
 PATH = 'content'
 USE_FOLDER_AS_CATEGORY = False
