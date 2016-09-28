@@ -43,10 +43,10 @@ Comparing the normal and over-sampled model nicely illustrates the trade-off bet
 
 - visualization
 
-<script src="http://vjs.zencdn.net/4.0/video.js"></script>
+<!-- <script src="http://vjs.zencdn.net/4.0/video.js"></script> -->
 
 <video id="visualizing-zika-outbreaks" class="video-js vjs-default-skin" controls
-preload="auto" width="870" height="870" poster=""
+preload="auto" width="870" height="1000" poster=""
 data-setup="{}">
 <source src="https://mlgill.github.io/zika_prediction/figures/d3_visualization.mp4" type='video/mp4'>
 </video>
