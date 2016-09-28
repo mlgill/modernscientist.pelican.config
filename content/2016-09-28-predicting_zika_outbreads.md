@@ -43,8 +43,6 @@ Comparing the normal and over-sampled model nicely illustrates the trade-off bet
 
 - visualization
 
-![Visualizing Zika outbreaks](https://mlgill.github.io/zika_prediction/figures/d3_visualization.mp4)
-
 <script src="http://vjs.zencdn.net/4.0/video.js"></script>
 
 <video id="visualizing-zika-outbreaks" class="video-js vjs-default-skin" controls
@@ -56,5 +54,23 @@ data-setup="{}">
 ## Conclusion
 
 xx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx
+
+
 
 
