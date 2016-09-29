@@ -16,12 +16,12 @@ Four clusters were identified during the analysis. Based on wordclouds (below), 
 3. Sweet Reds
 4. Portugese Reds
 
-![](./figures/10_wine_enthusiast_wordcloud.png)
+<!-- ![](./figures/10_wine_enthusiast_wordcloud.png) -->
 
 These clusters persisted in the LDA model as well.
 
-![](./figures/10_gensim_analysis_lda_vis_4.png)
+<!-- ![](./figures/10_gensim_analysis_lda_vis_4.png) -->
 
 There also appears to be some correlation between vintage years and review sentiment.
 
-![](./figures/11_wine_enthusiast_sentiment.png)
+<!-- ![](./figures/11_wine_enthusiast_sentiment.png) -->

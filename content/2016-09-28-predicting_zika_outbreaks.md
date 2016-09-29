@@ -13,7 +13,7 @@ The first of these projects involved predicting Zika outbreaks ([GitHub repo](ht
 
 ## Data and Feature Engineering
 
-Data was gathered from many sources, including GitHub repos and from web scraping, but the most critical was the CDC's [Zika outbreak repo](https://github.com/cdcepi/zika).[^1] Other data sources included historical weather, airport location, GDP, population density, and historical sightings of the mosquitoes *Aedes aegpti* and *Aedes albopictus*.[^2] Though not used as a feature, latitude and longitude were required for each location to enable feature engineering based on proximity. This proved rather challenging to acquire, given the limited number of APIs and sensitivity to variability in location spelling.
+Data were gathered from many sources, including GitHub repos and from web scraping, but the most critical was the CDC's [Zika outbreak repo](https://github.com/cdcepi/zika).[^1] Other data sources included historical weather, airport location, GDP, population density, and historical sightings of the mosquitoes *Aedes aegpti* and *Aedes albopictus*.[^2] Though not used as a feature, latitude and longitude were required for each location to enable feature engineering based on proximity. This proved rather challenging to acquire, given the limited number of APIs and sensitivity to variability in location spelling.
 
 <img alt="Figure 1. The Aedes aegpti mosquito." src="https://mlgill.github.io/zika_prediction/figures/aedes-aegypti.jpg" width="600px">
 
