@@ -88,7 +88,8 @@ EXTRA_PATH_METADATA = {'extra/favicon.png':{'path':'favicon.png'},
                        }
 
 ARTICLE_EXCLUDES = ['notes', 'themes', 'extra']
-PAGE_PATHS = ['pages']
+#PAGE_PATHS = ['pages'] # This will add back about.md as a page
+PAGE_PATHS = []
 
 NOTEBOOK_DIR = 'notebooks'
 
@@ -96,6 +97,7 @@ DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
 MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
+             ('About', 'http://michellelynngill.com'),
              ('Resume', 'http://resume.michellelynngill.com'),
              ('CV', 'http://cv.michellelynngill.com'))
 
