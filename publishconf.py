@@ -18,5 +18,5 @@ RELATIVE_URLS = False
 
 # MENUITEMS = (('Archives', SITEURL + '/archives.html'),)
 
-DISQUS_SITENAME = 'themodernscientist'
+#DISQUS_SITENAME = 'themodernscientist'
 GOOGLE_ANALYTICS = 'UA-41778760-1'
