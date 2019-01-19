@@ -30,9 +30,9 @@ def rewrite_rss(output_path='./output',rss_path='/feeds/main_rss.xml'):
 
 	# Feed info
 	blog_title = 'themodernscientist'
-	blog_link = 'http://themodernscientist.com/'
+	blog_link = 'http://modernscientist.com/'
 	blog_description = 'biophysicist, mac-unix zealot, pythonista'
-	rss_link = 'http://themodernscientist.com/feeds/main_rss.xml'
+	rss_link = 'http://modernscientist.com/feeds/main_rss.xml'
 	author = 'modernscientist'
 
 	# Max number of entries
@@ -81,7 +81,7 @@ def rewrite_rss(output_path='./output',rss_path='/feeds/main_rss.xml'):
 	entries_links = [e+'<p><a href="%s">Read More</a></p>'%l for e,l in zip(entries,links)]
 
 	# Create unique id tags for posts
-	unique_ids = ['tag:www.themodernscientist.com,'+d.replace('/','-')+':'+l.replace('http://www.themodernscientist.com/','') for d,l in zip(dates,links)]
+	unique_ids = ['tag:www.modernscientist.com,'+d.replace('/','-')+':'+l.replace('http://www.modernscientist.com/','') for d,l in zip(dates,links)]
 
 	# Convert the date format
 	#dates_fmt = [datetime.strptime(x,"%Y-%m-%dT%H:%M:%S").strftime("%a, %d %b %Y %H:%M:%S -0400") for x in dates]

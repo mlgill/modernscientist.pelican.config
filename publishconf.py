@@ -7,7 +7,7 @@ sys.path.append('.')
 
 from pelicanconf import *
 
-SITEURL = 'http://themodernscientist.com'
+SITEURL = 'http://modernscientist.com'
 
 DELETE_OUTPUT_DIRECTORY = False
 

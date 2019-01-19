@@ -28,7 +28,7 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = None
 
 ### Feed settings
-FEED_DOMAIN = 'http://themodernscientist.com'
+FEED_DOMAIN = 'http://modernscientist.com'
 FEED_DOMAIN_LINK = 'http://feedpress.me'
 FEED_ATOM = None
 FEED_RSS = 'feeds/main_rss.xml'
@@ -96,10 +96,9 @@ NOTEBOOK_DIR = 'notebooks'
 DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
-MENUITEMS = (('Archives', 'http://themodernscientist.com/archives.html'),
-             ('About', 'http://michellelynngill.com'),
-             ('Resume', 'http://resume.michellelynngill.com'),
-             ('CV', 'http://cv.michellelynngill.com'))
+MENUITEMS = (('Archives', 'http://modernscientist.com/archives.html'),
+             ('About/CV', 'https://michellelynngill.com'),
+             ('Resume', 'https://resume.michellelynngill.com'))
 
 
 DISPLAY_PAGES_ON_MENU = True
@@ -111,9 +110,9 @@ USE_TIPUE_SEARCH = True
 ## Theme sidebar settings
 USE_CATEGORIES = False
 SUBSCRIBE = True
-SOCIAL = (('Twitter', 'http://www.twitter.com/modernscientist'),
+SOCIAL = (('Twitter', 'https://www.twitter.com/modernscientist'),
           ('Github', 'https://github.com/mlgill'),
-          ('Stack Overflow', 'http://stackoverflow.com/users/943044/mlgill'),
+          ('Stack Overflow', 'https://stackoverflow.com/users/943044/mlgill'),
           ('LinkedIn', 'https://www.linkedin.com/in/michellelynngill'))
 
 

@@ -4,7 +4,7 @@ Author: Michelle Gill
 Slug: binary_integer_programming_with_python
 Tags: science, python
 
-My research is focused on [biomolecular NMR](http://themodernscientist.com/pages/about.html) and, as such, often involves transferring resonance assignments from one multidimensional NMR spectrum to another. In theory this should be a simple task, but it can be extremely time consuming due to small variations in the sample used to acquire the data or in the way the data were acquired.
+My research is focused on [biomolecular NMR](http://modernscientist.com/pages/about.html) and, as such, often involves transferring resonance assignments from one multidimensional NMR spectrum to another. In theory this should be a simple task, but it can be extremely time consuming due to small variations in the sample used to acquire the data or in the way the data were acquired.
 
 The good news, however, is that it is possible to automate this process using an optimization. Optimization problems, such as aligning x-ray crystallographic models of homologous proteins, are often encountered in structural biology. In the case of a structural alignment, the transformed structure can occupy any set of coordinates, provided the shape of the molecule itself is not changed. The transfer of resonance assignments is different in that individual resonances are either matched with each other or not. The transformation from one set of data onto another is effectively discrete (more specifically, it is binary). This type of optimization is known as “binary integer programming.” 
 

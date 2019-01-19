@@ -5,7 +5,7 @@ Slug: automated_notifications_of_experiment_progress_part_2
 Tags: science, shell, automation, mac, ios
 
 
-Previously, I [posted](http://themodernscientist.com/posts/2013/2013-10-12-automated_notifications_of_experiment_progress/) about using [Growl](http://growl.info/) in combination with [Prowl](http://www.prowlapp.com/) to get remote notifications of experiment progress on both a Mac and iPhone. Later that day, I started thinking about some improvements to the script after a brief Twitter [conversation](https://twitter.com/modernscientist/status/389159633753210880) with [Seth Brown](https://twitter.com/DrBunsen).[^follow] 
+Previously, I [posted](http://modernscientist.com/posts/2013/2013-10-12-automated_notifications_of_experiment_progress/) about using [Growl](http://growl.info/) in combination with [Prowl](http://www.prowlapp.com/) to get remote notifications of experiment progress on both a Mac and iPhone. Later that day, I started thinking about some improvements to the script after a brief Twitter [conversation](https://twitter.com/modernscientist/status/389159633753210880) with [Seth Brown](https://twitter.com/DrBunsen).[^follow] 
 
 The script depends on the remote Mac being always on and reachable from the internet. This is true for my Mac desktop, but it may not be in many other situations, such as when a laptop is involved. In cases such as these, the notification can be sent directly to Prowl from the shell script itself.[^alt] 
 
