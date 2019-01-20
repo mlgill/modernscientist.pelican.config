@@ -4,7 +4,7 @@ Author: Michelle Gill
 Slug: for_some_this_is_a_busy_week
 Tags: pets, life
 
-The coming week is going to be an incredibly busy, but exciting, one for me. Besides having updated my blog so that I am now one of the cool kids with a [Pelican](http://blog.getpelican.com)-generated blog hosted at [GitHub](https://github.com/modernscientist/modernscientist.github.com),[^rss] the following things are also taking place:
+The coming week is going to be an incredibly busy, but exciting, one for me. Besides having updated my blog so that I am now one of the cool kids with a [Pelican](http://blog.getpelican.com)-generated blog hosted at [GitHub](https://github.com/mlgill/modernscientist.github.com),[^rss] the following things are also taking place:
 
 <!-- PELICAN_END_SUMMARY -->
 

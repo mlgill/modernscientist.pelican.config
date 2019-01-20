@@ -24,5 +24,5 @@ When I attempted to write a script to perform this type of optimization using py
 
 ---------
 
-*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/modernscientist/modernscientist.github.com/blob/master/notebooks/BinaryIntegerProgramming.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/BinaryIntegerProgramming.ipynb).* 
+*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/mlgill/modernscientist.github.com/blob/master/notebooks/BinaryIntegerProgramming.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/BinaryIntegerProgramming.ipynb).* 
 

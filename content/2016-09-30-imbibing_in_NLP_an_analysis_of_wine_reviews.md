@@ -24,13 +24,13 @@ Four clusters were identified during the analysis. Based on wordclouds (below), 
 3. Sweet Reds
 4. Portugese Reds
 
-![](https://mlgill.github.io/wine_nlp/figures/10_wine_enthusiast_wordcloud.png)
+![wine wordcloud](https://mlgill.github.io/wine_nlp/figures/10_wine_enthusiast_wordcloud.png)
 
 These clusters persisted in the LDA model as well. [LINK](https://mlgill.github.io/wine_nlp/visualization/index.html)
 
-![](https://mlgill.github.io/wine_nlp/figures/10_gensim_analysis_lda_vis_4.png)
+![wine text analysis](https://mlgill.github.io/wine_nlp/figures/10_gensim_analysis_lda_vis_4.png)
 
 There also appears to be some correlation between vintage years and review sentiment.
 
-![](https://mlgill.github.io/wine_nlp/figures/11_wine_enthusiast_sentiment.png)
+![wine sentiment](https://mlgill.github.io/wine_nlp/figures/11_wine_enthusiast_sentiment.png)
 

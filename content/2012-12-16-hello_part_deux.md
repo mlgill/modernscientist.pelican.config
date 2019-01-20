@@ -9,7 +9,7 @@ In the meantime, I leave you with a picture of one my[^nysbc] toys: a 900 MHz nu
 
 !["Badass NMR Spectrometer"][image1]
 
-[image1]: {filename}/images/2012-12-15_hello_part_deux_1.jpeg "Badass NMR Spectrometer"
+[image1]: {static}/images/2012-12-15_hello_part_deux_1.jpeg "Badass NMR Spectrometer"
 
 [^nysbc]: Property of the [New York Structural Biology Center](http://www.nysbc.org) but I like to pretend it's mine.
 

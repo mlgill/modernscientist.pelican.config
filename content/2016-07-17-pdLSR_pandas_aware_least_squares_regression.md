@@ -40,7 +40,7 @@ The package can be installed in three different ways:
 * [Using `pip`](https://pypi.python.org/pypi/pdLSR) with `pip install pdLSR`
 * Manually from the [GitHub repo](https://github.com/mlgill/pdLSR)
 
-*This post was written in a Jupyter notebook, which can be downloaded and viewed statically [here](https://github.com/modernscientist/modernscientist.github.com/blob/master/notebooks/pdLSR_demo.ipynb).*
+*This post was written in a Jupyter notebook, which can be downloaded and viewed statically [here](https://github.com/mlgill/modernscientist.github.com/blob/master/notebooks/pdLSR_demo.ipynb).*
 
 
 

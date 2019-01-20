@@ -18,4 +18,4 @@ The steps required to created the Reburp shaped pulse and calculate its propagat
 
 [^fun]: And providing an excuse for me to play with animations in IPython notebooks.
 
-*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/modernscientist/modernscientist.github.com/blob/master/notebooks/NMRShapedPulseAnimation.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/NMRShapedPulseAnimation.ipynb).* 
+*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/mlgill/modernscientist.github.com/blob/master/notebooks/NMRShapedPulseAnimation.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/NMRShapedPulseAnimation.ipynb).* 

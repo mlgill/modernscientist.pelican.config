@@ -131,7 +131,7 @@ fi
 
 Have fun!
 
-[image1]: {filename}/images/2013-10-19_automated_notifications_of_experiment_progress_part_2_1.png "Prowl API Key Generation"
+[image1]: {static}/images/2013-10-19_automated_notifications_of_experiment_progress_part_2_1.png "Prowl API Key Generation"
 
 [^follow]: If you are interested in python, data visualization, R, and pretty much every other cool thing on the internet, you should definitely follow him and read his [blog](http://www.drbunsen.org/).
 

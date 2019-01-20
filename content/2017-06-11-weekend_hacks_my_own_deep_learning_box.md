@@ -20,7 +20,7 @@ A picture of the final build is below. An album with more pictures is also avail
 
 !["My Deep Learning Box"][image1]
 
-[image1]: {filename}/images/2017-06-11_weekend_hacks_my_own_deep_learning_box_1.jpeg "My Deep Learning Box"
+[image1]: {static}/images/2017-06-11_weekend_hacks_my_own_deep_learning_box_1.jpeg "My Deep Learning Box"
 
 
 ## Operating System

@@ -79,9 +79,9 @@ mount_smbfs smb://$USERNAME:$PASSWORD@$NAS_ADDRESS/$NAS_MOUNTPOINT /Volumes/$NAS
 
 That's it! Here's to a more secure 2015!
 
-[image1]: {filename}/images/2015-01-04_secure_password_use_in_scripts_1.png "KUPHOG NAS drive password"
-[image2]: {filename}/images/2015-01-04_secure_password_use_in_scripts_2.png "AppleScript dictionary installation"
-[image3]: {filename}/images/2015-01-04_secure_password_use_in_scripts_3.png "AppleScript test of Usable Keychain Scripting"
+[image1]: {static}/images/2015-01-04_secure_password_use_in_scripts_1.png "KUPHOG NAS drive password"
+[image2]: {static}/images/2015-01-04_secure_password_use_in_scripts_2.png "AppleScript dictionary installation"
+[image3]: {static}/images/2015-01-04_secure_password_use_in_scripts_3.png "AppleScript test of Usable Keychain Scripting"
 
 [^resolution]: I dislike the absolutism of the word resolution, but call it that if you prefer.
 [^yosemite]: Contrary to some discussion I've seen, Usable Keychain Scripting works on Yosemite (and presumably also Mavericks). It seems there are some changes to the syntax though.

@@ -60,7 +60,7 @@ TAG_CLOUD_MAX_ITEMS = 100
 ## Theme settings
 THEME = 'themes/octopress-theme_MLG'
 
-PLUGIN_PATHS = ['../pelican_plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 
 PLUGINS = ['summary', 'latex', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',

@@ -33,4 +33,4 @@ Goodbye, dear friend.
 
 !["Lawrence, in happy times"][image1]
 
-[image1]: {filename}/images/2013-03-16_to_my_friend_1.jpeg "Lawrence, in happy times"
+[image1]: {static}/images/2013-03-16_to_my_friend_1.jpeg "Lawrence, in happy times"

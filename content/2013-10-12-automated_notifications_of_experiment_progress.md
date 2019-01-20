@@ -87,7 +87,7 @@ Here is an example[^secret] of the Prowl status updates I receive on my iPhone. 
 
 This is a script I have been meaning to write for quite some time and I plan to use it, perhaps with less frequent notification times, even after the spectrometer is repaired.
 
-[image1]: {filename}/images/2013-10-12_automated_notifications_of_experiment_progress_1.jpg "Prowl Status Updates"
+[image1]: {static}/images/2013-10-12_automated_notifications_of_experiment_progress_1.jpg "Prowl Status Updates"
 
 [^vnc]: VNC could also be used to to check on the experiment, but I prefer a method that also notifies me when I am away from my computer.
 

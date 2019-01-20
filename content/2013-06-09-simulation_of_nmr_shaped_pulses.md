@@ -29,4 +29,4 @@ As expected, this function is much faster than the original NumPy version. In th
 
 *Edit:* A Cython version of the propagator function provided by Joshua Adelman has been added above.
 
-*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/modernscientist/modernscientist.github.com/blob/master/notebooks/NMRShapedPulseSimulation.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/NMRShapedPulseSimulation.ipynb).* 
+*This post was written in an IPython notebook, which can be downloaded [here](https://github.com/mlgill/modernscientist.github.com/blob/master/notebooks/NMRShapedPulseSimulation.ipynb), or viewed statically [here](http://nbviewer.ipython.org/url/modernscientist.github.com/notebooks/NMRShapedPulseSimulation.ipynb).* 
