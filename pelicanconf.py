@@ -28,7 +28,7 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = None
 
 ### Feed settings
-FEED_DOMAIN = 'http://modernscientist.com'
+FEED_DOMAIN = 'https://modernscientist.com'
 FEED_DOMAIN_LINK = 'http://feedpress.me'
 FEED_ATOM = None
 FEED_RSS = 'feeds/main_rss.xml'

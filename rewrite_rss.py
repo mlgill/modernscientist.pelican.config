@@ -3,6 +3,7 @@ import bs4
 from feedgenerator import Rss201rev2Feed
 import re, glob
 from datetime import datetime
+from publishconf import SITEURL
 #from pelican.utils import get_relative_path, path_to_url, set_date_tzinfo, truncate_html_words
 #from pelican.settings import read_settings
 
@@ -30,9 +31,9 @@ def rewrite_rss(output_path='./output',rss_path='/feeds/main_rss.xml'):
 
 	# Feed info
 	blog_title = 'themodernscientist'
-	blog_link = 'http://modernscientist.com/'
+	blog_link = SITEURL
 	blog_description = 'biophysicist, mac-unix zealot, pythonista'
-	rss_link = 'http://modernscientist.com/feeds/main_rss.xml'
+	rss_link = SITEURL + '/feeds/main_rss.xml'
 	author = 'modernscientist'
 
 	# Max number of entries
@@ -81,7 +82,7 @@ def rewrite_rss(output_path='./output',rss_path='/feeds/main_rss.xml'):
 	entries_links = [e+'<p><a href="%s">Read More</a></p>'%l for e,l in zip(entries,links)]
 
 	# Create unique id tags for posts
-	unique_ids = ['tag:www.modernscientist.com,'+d.replace('/','-')+':'+l.replace('http://www.modernscientist.com/','') for d,l in zip(dates,links)]
+	unique_ids = ['tag:modernscientist.com,'+d.replace('/','-')+':'+l.replace(SITEURL + '/','') for d,l in zip(dates,links)]
 
 	# Convert the date format
 	#dates_fmt = [datetime.strptime(x,"%Y-%m-%dT%H:%M:%S").strftime("%a, %d %b %Y %H:%M:%S -0400") for x in dates]
