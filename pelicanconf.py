@@ -77,11 +77,11 @@ if PYTHON_VERSION < 3:
 
 # Extra files
 STATIC_PATHS = ['images', 'notebooks', 'notes', 'media', 
-                'extra/favicon.png', #'extra/CNAME', 
+                'extra/favicon.png', 'extra/CNAME', 
                 'extra/keybase.txt', 'extra/README.md', 'extra/Dockerfile']
 
 EXTRA_PATH_METADATA = {'extra/favicon.png':{'path':'favicon.png'},
-     	                 #'extra/CNAME':{'path':'CNAME'},
+     	                 'extra/CNAME':{'path':'CNAME'},
                        'extra/keybase.txt':{'path':'keybase.txt'},
                        'extra/README.md':{'path':'README.md'},
                        'extra/Dockerfile':{'path':'Dockerfile'},
