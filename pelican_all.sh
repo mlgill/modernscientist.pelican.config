@@ -1,6 +1,6 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env zsh -f
 
-#setupconda 3 
+conda activate scienv3
 
 ./pre_pelican.sh
 
@@ -9,5 +9,5 @@ pelican -s publishconf.py
 cp -R static/tipuesearch output/theme/.
 cp -R static/bigfoot output/theme/.
 
-./post_pelican.py
+/Volumes/Files/miniconda/envs/scienv3/bin/python post_pelican.py
 # ./git_push.sh
