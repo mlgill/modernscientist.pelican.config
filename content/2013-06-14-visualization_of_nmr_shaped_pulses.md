@@ -4,7 +4,7 @@ Author: Michelle Gill
 Slug:	visualization_of_nmr_shaped_pulses
 Tags:	science, python
 
-This IPython notebook builds on the previous [blog post](http://modernscientist.com/posts/2013/2013-06-09-simulation_of_nmr_shaped_pulses/) which described how to simulate and plot the result of a shaped pulse on magnetization in an NMR experiment. For the purpose of teaching[^fun], it can also be useful to visualize the effect of this pulse on the magnetization at each discrete time step of the pulse.
+This IPython notebook builds on the previous [blog post](https://modernscientist.com/posts/2013/2013-06-09-simulation_of_nmr_shaped_pulses/) which described how to simulate and plot the result of a shaped pulse on magnetization in an NMR experiment. For the purpose of teaching[^fun], it can also be useful to visualize the effect of this pulse on the magnetization at each discrete time step of the pulse.
 
 Visualizing the time-dependent course of magnetization requires the [javascript viewer](https://github.com/jakevdp/JSAnimation) developed by Jake Vanderplas described [here](http://jakevdp.github.io/blog/2013/05/19/a-javascript-viewer-for-matplotlib-animations/) and further demonstrated [here](http://jakevdp.github.io/blog/2013/05/28/a-simple-animation-the-magic-triangle/). This library has to be installed somewhere in the path searched by Python. NymPy and Matplotlib are also required.
 

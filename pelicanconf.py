@@ -96,7 +96,7 @@ NOTEBOOK_DIR = 'notebooks'
 DIRECT_TEMPLATES = ('index', 'archives', 'tags', 'search')
 
 ## Theme navbar settings
-MENUITEMS = (('Archives', 'http://modernscientist.com/archives.html'),
+MENUITEMS = (('Archives', 'https://modernscientist.com/archives.html'),
              ('About/CV', 'https://michellelynngill.com'),
              ('Resume', 'https://resume.michellelynngill.com'))
 
