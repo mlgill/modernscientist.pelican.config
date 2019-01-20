@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh -f
 
-setupconda 3 
+#setupconda 3 
 
 if [[ -e ./output/.git ]]; then
 	find ./output -mindepth 1 | grep -v '\.git' | xargs -I{} rm -rf "{}"

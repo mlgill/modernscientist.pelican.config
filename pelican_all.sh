@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-setupconda 3 
+#setupconda 3 
 
 ./pre_pelican.sh
 
